@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: albanes_extra_textures
+Specification-Vendor: OutrightWings, Albane_Cheri
+Specification-Version: 1
+Implementation-Title: Albane'sExtraHorseMarkings
+Implementation-Version: 1.0.0
+Implementation-Vendor: OutrightWings, Albane_Cheri
+Implementation-Timestamp: 2023-10-09T15:07:10-0700
+MixinConfigs: albanes_extra_textures.mixins.json
+
